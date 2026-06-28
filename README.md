@@ -4,3 +4,10 @@ I am proficient with **Adobe Creative Suite Programs (Adobe Photoshop, Adobe Ill
 
 
 I am familiar with **HTML, CSS, JavaScript, and Python**.
+
+
+## For this assignment I am learning about *Markdowns*
+In Github you can:
+- Create repos
+- Create branches
+- Merge branches
