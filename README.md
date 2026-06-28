@@ -1,2 +1,3 @@
 # my-first-repo
-Week 04 - Setting up my GitHub Account
+## Main Branch Changes
+### Week 04 - Setting up my GitHub Account
